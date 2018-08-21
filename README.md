@@ -1,6 +1,10 @@
 # abapObjAPI
 ABAP API to easily create ABAP repository objects on the fly ; the API uses abapGit classes
 
+Object types currently handled :
+* PROG
+* CLAS
+
 # Installation
 
 Get and install ZABAPGIT program -> https://github.com/larshp/abapGit
